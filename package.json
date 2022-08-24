@@ -1,0 +1,26 @@
+{
+  "name": "2022-travel-backend",
+  "version": "1.0.0",
+  "main": "dist/app.js",
+  "repository": "https://github.com/implude/2022-travel-backend.git",
+  "author": "Tilto_ <tilto0822@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "packageManager": "yarn@3.2.2",
+  "devDependencies": {
+    "@types/node": "^18.7.12",
+    "@typescript-eslint/eslint-plugin": "^5.34.0",
+    "@typescript-eslint/parser": "^5.34.0",
+    "eslint": "^8.22.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-config-xo": "0.41.0",
+    "eslint-config-xo-typescript": "0.52.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "gitmoji-cli": "^6.1.0",
+    "prettier": "^2.7.1",
+    "typescript": "^4.7"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
